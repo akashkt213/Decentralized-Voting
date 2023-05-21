@@ -1,4 +1,4 @@
-# blockchain-voting-system v.0.1
+# decentralized blockchain-voting-system
 
  Blockchain Voting System Project 🍳CheckOut #github
 
